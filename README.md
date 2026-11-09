@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0260-single-number-iii) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
