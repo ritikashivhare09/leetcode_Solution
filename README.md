@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0260-single-number-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
