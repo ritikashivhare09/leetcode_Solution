@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0260-single-number-iii) |
+| [0485-max-consecutive-ones](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0705-design-hashset) |
 ## Hash Table
 |  |
