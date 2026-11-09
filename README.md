@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0088-merge-sorted-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
