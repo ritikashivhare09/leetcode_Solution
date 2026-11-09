@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [1844-replace-all-digits-with-characters](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/1844-replace-all-digits-with-characters) |
 ## Stack
 |  |
 | ------- |
