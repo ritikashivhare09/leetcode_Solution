@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0705-design-hashset) |
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0002-add-two-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
