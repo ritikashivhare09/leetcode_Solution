@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0260-single-number-iii](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0496-next-greater-element-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ritikashivhare09/leetcode_Solution/tree/master/1544-make-the-string-great) |
